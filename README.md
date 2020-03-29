@@ -1,1 +1,1 @@
-checkout : https://harishkumar01.gtihub.io/portfolio.html
+checkout : https://harishkumar01.github.io/portfolio.html
